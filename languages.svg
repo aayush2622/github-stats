@@ -134,40 +134,40 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #A97BFF; 
-  width: 48.652%;
+  width: 48.788%;
 " class="progress-item"></span><span style="
   background-color: #b07219; 
-  width: 25.718%;
+  width: 25.650%;
 " class="progress-item"></span><span style="
   background-color: #00B4AB; 
-  width: 22.502%;
+  width: 22.443%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 0.898%;
+  width: 0.896%;
 " class="progress-item"></span><span style="
   background-color: #f34b7d; 
-  width: 0.489%;
+  width: 0.487%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.471%;
+  width: 0.470%;
 " class="progress-item"></span><span style="
   background-color: #DA3434; 
-  width: 0.353%;
+  width: 0.352%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.314%;
+  width: 0.313%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 0.309%;
+  width: 0.308%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 0.163%;
+  width: 0.162%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
   width: 0.062%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
-  width: 0.035%;
+  width: 0.034%;
 " class="progress-item"></span><span style="
   background-color: #701516; 
   width: 0.021%;
@@ -206,7 +206,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Kotlin</span>
-  <span class="percent">48.65%</span>
+  <span class="percent">48.79%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -222,7 +222,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Java</span>
-  <span class="percent">25.72%</span>
+  <span class="percent">25.65%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -238,7 +238,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dart</span>
-  <span class="percent">22.50%</span>
+  <span class="percent">22.44%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
